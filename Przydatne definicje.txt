@@ -7,4 +7,15 @@ Convert the input to an array.
 isinstance
 Returns a Boolean stating whether the object is an instance or subclass of another object.
 
+https://github.com/KajetanByczynski/numpy/blob/master/numpy/polynomial/polynomial.py
+
 https://github.com/numpy/numpy/blob/master/numpy/core/numeric.py
+
+https://github.com/KajetanByczynski/numpy/blob/master/numpy/core/multiarray.py
+
+https://github.com/KajetanByczynski/numpy/blob/master/numpy/ma/core.py
+
+
+from numpy.core import array
+array
+<function numpy.core.multiarray.array>
